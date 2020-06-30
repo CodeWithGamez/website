@@ -2,8 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "CodeWithGamez"
 theme = "hugo-theme-learn"
-
+publishDir = "../docs"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
-publishDir = "../docs"
+
