@@ -1,34 +1,34 @@
 [
 {
-	"uri": "http://example.org/chapter-0/a/",
+	"uri": "https://codewithgamez.github.io/website/chapter-0/a/",
 	"title": "A",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/",
+	"uri": "https://codewithgamez.github.io/website/",
 	"title": "CodeWithGamez",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/chapter-0/",
+	"uri": "https://codewithgamez.github.io/website/chapter-0/",
 	"title": "Chapter 0",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/categories/",
+	"uri": "https://codewithgamez.github.io/website/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/tags/",
+	"uri": "https://codewithgamez.github.io/website/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

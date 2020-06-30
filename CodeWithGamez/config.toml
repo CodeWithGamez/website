@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://codewithgamez.github.io/website/"
 languageCode = "en-us"
 title = "CodeWithGamez"
 theme = "hugo-theme-learn"
