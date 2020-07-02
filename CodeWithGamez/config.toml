@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "CodeWithGamez"
 theme = "hugo-theme-learn"
 publishDir = "../docs"
+showVisitedLinks = true
+themeVariant = "blue"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
