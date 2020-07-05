@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CodeWithGamez</title>
+    <title>Home on CodeWithGamez</title>
     <link>https://codewithgamez.github.io/website/</link>
-    <description>Recent content on CodeWithGamez</description>
+    <description>Recent content in Home on CodeWithGamez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 21:25:46 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 14:01:10 -0500</lastBuildDate>
     
 	<atom:link href="https://codewithgamez.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     
@@ -35,6 +35,15 @@
       <pubDate>Wed, 01 Jul 2020 21:25:46 -0500</pubDate>
       
       <guid>https://codewithgamez.github.io/website/chapter-0/c/why_python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lesson Setup</title>
+      <link>https://codewithgamez.github.io/website/chapter-0/d/lesson_setup/</link>
+      <pubDate>Sun, 05 Jul 2020 13:58:23 -0500</pubDate>
+      
+      <guid>https://codewithgamez.github.io/website/chapter-0/d/lesson_setup/</guid>
       <description></description>
     </item>
     

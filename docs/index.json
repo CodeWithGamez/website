@@ -25,7 +25,7 @@
 	"title": "Chapter 1",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 1 Some Chapter title Lorem Ipsum.\n"
+	"content": "Chapter 1 Some Chapter title "
 },
 {
 	"uri": "https://codewithgamez.github.io/website/chapter-0/c/why_python/",
@@ -35,11 +35,18 @@
 	"content": ""
 },
 {
-	"uri": "https://codewithgamez.github.io/website/",
-	"title": "CodeWithGamez",
+	"uri": "https://codewithgamez.github.io/website/chapter-0/d/lesson_setup/",
+	"title": "Lesson Setup",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://codewithgamez.github.io/website/",
+	"title": "Home",
+	"tags": [],
+	"description": "",
+	"content": "Welcome A Work In Progress "
 },
 {
 	"uri": "https://codewithgamez.github.io/website/categories/",

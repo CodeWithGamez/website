@@ -9,4 +9,3 @@ chapter = true
 
 # Some Chapter title
 
-Lorem Ipsum.
