@@ -6,7 +6,7 @@ publishDir = "../docs"
 [params]
     showVisitedLinks = true
     themeVariant = "blue"
-    
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
