@@ -1,45 +1,52 @@
 [
 {
+	"uri": "https://codewithgamez.github.io/website/chapter-1/a/comment_and_commit/",
+	"title": "Comment and commit",
+	"tags": [],
+	"description": "",
+	"content": "tldw(too long didn\u0026rsquo;t watch):\nSearch Code\n\rFix/Debug Code\n\rComment Code\n\rWrite Code\n\r"
+},
+{
 	"uri": "https://codewithgamez.github.io/website/chapter-0/a/about_the_teacher/",
 	"title": "About The Teacher",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "tldw(too long didn\u0026rsquo;t watch):\nname: mr. gamez\njob: math/cs teacher, 7th year teaching, only past 2 years have i taught computer science classes with my math classes\nreason for making course: i\u0026rsquo;m self taught with programming and i feel like i can make better material to learn\n"
 },
 {
 	"uri": "https://codewithgamez.github.io/website/chapter-0/",
 	"title": "Chapter 0",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 0 Basics Discover what this Hugo theme is all about and the core concepts behind it.\n"
+	"content": "Chapter 0 About the teacher and course "
 },
 {
 	"uri": "https://codewithgamez.github.io/website/chapter-0/b/what_do_you_need/",
 	"title": "What Do You Need",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "tldw(too long didn\u0026rsquo;t watch):\nminimum: any device that can run a browser, along with a github account, and linking it to repl.it\nrecommended: a keyboard and a big enough screen\n"
 },
 {
 	"uri": "https://codewithgamez.github.io/website/chapter-1/",
 	"title": "Chapter 1",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 1 Some Chapter title "
+	"content": "Chapter 1 Hello World "
 },
 {
 	"uri": "https://codewithgamez.github.io/website/chapter-0/c/why_python/",
 	"title": "Why Python",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "tldw(too long didn\u0026rsquo;t watch):\npython is beginner friendly\n"
 },
 {
 	"uri": "https://codewithgamez.github.io/website/chapter-0/d/lesson_setup/",
 	"title": "Lesson Setup",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "tldw(too long didn\u0026rsquo;t watch):\ncourse will be split in these four skills Search Code\n\rFix/Debug Code\n\rComment Code\n\rWrite Code\n\r"
 },
 {
 	"uri": "https://codewithgamez.github.io/website/",

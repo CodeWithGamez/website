@@ -11,5 +11,19 @@
 	<atom:link href="https://codewithgamez.github.io/website/chapter-1/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Comment and commit</title>
+      <link>https://codewithgamez.github.io/website/chapter-1/a/comment_and_commit/</link>
+      <pubDate>Sun, 05 Jul 2020 23:24:23 -0500</pubDate>
+      
+      <guid>https://codewithgamez.github.io/website/chapter-1/a/comment_and_commit/</guid>
+      <description>tldw(too long didn&amp;rsquo;t watch):
+Search Code
+Fix/Debug Code
+Comment Code
+Write Code
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -7,5 +7,5 @@ chapter = true
 
 ### Chapter 1
 
-# Some Chapter title
+# Hello World
 

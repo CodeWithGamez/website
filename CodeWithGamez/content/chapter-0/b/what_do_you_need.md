@@ -7,3 +7,7 @@ weight = 2
 +++
 
 **tldw(too long didn't watch):**
+
+minimum: any device that can run a browser, along with a github account, and linking it to repl.it
+
+recommended: a keyboard and a big enough screen 

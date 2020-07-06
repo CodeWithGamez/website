@@ -8,18 +8,19 @@ weight = 4
 
 **tldw(too long didn't watch):**
 
+course will be split in these four skills
 {{% notice info %}}
-Search
+Search Code
 {{% /notice %}}
 
 {{% notice warning %}}
-Fix/Debug
+Fix/Debug Code
 {{% /notice %}}
 
 {{% notice tip %}}
-Comment
+Comment Code
 {{% /notice %}}
 
 {{% notice note %}}
-Write
+Write Code
 {{% /notice %}}

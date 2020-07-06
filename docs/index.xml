@@ -12,12 +12,29 @@
     
     
     <item>
+      <title>Comment and commit</title>
+      <link>https://codewithgamez.github.io/website/chapter-1/a/comment_and_commit/</link>
+      <pubDate>Sun, 05 Jul 2020 23:24:23 -0500</pubDate>
+      
+      <guid>https://codewithgamez.github.io/website/chapter-1/a/comment_and_commit/</guid>
+      <description>tldw(too long didn&amp;rsquo;t watch):
+Search Code
+Fix/Debug Code
+Comment Code
+Write Code
+</description>
+    </item>
+    
+    <item>
       <title>About The Teacher</title>
       <link>https://codewithgamez.github.io/website/chapter-0/a/about_the_teacher/</link>
       <pubDate>Tue, 30 Jun 2020 18:44:26 -0500</pubDate>
       
       <guid>https://codewithgamez.github.io/website/chapter-0/a/about_the_teacher/</guid>
-      <description></description>
+      <description>tldw(too long didn&amp;rsquo;t watch):
+name: mr. gamez
+job: math/cs teacher, 7th year teaching, only past 2 years have i taught computer science classes with my math classes
+reason for making course: i&amp;rsquo;m self taught with programming and i feel like i can make better material to learn</description>
     </item>
     
     <item>
@@ -26,7 +43,9 @@
       <pubDate>Wed, 01 Jul 2020 21:03:49 -0500</pubDate>
       
       <guid>https://codewithgamez.github.io/website/chapter-0/b/what_do_you_need/</guid>
-      <description></description>
+      <description>tldw(too long didn&amp;rsquo;t watch):
+minimum: any device that can run a browser, along with a github account, and linking it to repl.it
+recommended: a keyboard and a big enough screen</description>
     </item>
     
     <item>
@@ -35,7 +54,8 @@
       <pubDate>Wed, 01 Jul 2020 21:25:46 -0500</pubDate>
       
       <guid>https://codewithgamez.github.io/website/chapter-0/c/why_python/</guid>
-      <description></description>
+      <description>tldw(too long didn&amp;rsquo;t watch):
+python is beginner friendly</description>
     </item>
     
     <item>
@@ -44,7 +64,12 @@
       <pubDate>Sun, 05 Jul 2020 13:58:23 -0500</pubDate>
       
       <guid>https://codewithgamez.github.io/website/chapter-0/d/lesson_setup/</guid>
-      <description></description>
+      <description>tldw(too long didn&amp;rsquo;t watch):
+course will be split in these four skills Search Code
+Fix/Debug Code
+Comment Code
+Write Code
+</description>
     </item>
     
   </channel>

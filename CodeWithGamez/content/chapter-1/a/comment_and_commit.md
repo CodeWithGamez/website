@@ -1,8 +1,8 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-date = {{ .Date }}
+title = "Comment and commit"
+date = 2020-07-05T23:24:23-05:00
 draft = false
-pre = "<b>. </b>"
+pre = "<b>a. </b>"
 weight = 1
 +++
 
