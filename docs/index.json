@@ -1,7 +1,7 @@
 [
 {
 	"uri": "https://codewithgamez.github.io/website/chapter-1/a/comment_and_commit/",
-	"title": "Comment and commit",
+	"title": "Comment and Commit",
 	"tags": [],
 	"description": "",
 	"content": "tldw(too long didn\u0026rsquo;t watch):\nSearch Code\n\rFix/Debug Code\n\rComment Code\n\rWrite Code\n\r"
@@ -21,6 +21,13 @@
 	"content": "Chapter 0 About the teacher and course "
 },
 {
+	"uri": "https://codewithgamez.github.io/website/chapter-1/b/print/",
+	"title": "Print( )",
+	"tags": [],
+	"description": "",
+	"content": "tldw(too long didn\u0026rsquo;t watch):\nSearch Code\n\rFix/Debug Code\n\rComment Code\n\rWrite Code\n\r"
+},
+{
 	"uri": "https://codewithgamez.github.io/website/chapter-0/b/what_do_you_need/",
 	"title": "What Do You Need",
 	"tags": [],
@@ -35,11 +42,25 @@
 	"content": "Chapter 1 Hello World "
 },
 {
+	"uri": "https://codewithgamez.github.io/website/chapter-1/c/variables_and_types/",
+	"title": "Variables and Types",
+	"tags": [],
+	"description": "",
+	"content": "tldw(too long didn\u0026rsquo;t watch):\nSearch Code\n\rFix/Debug Code\n\rComment Code\n\rWrite Code\n\r"
+},
+{
 	"uri": "https://codewithgamez.github.io/website/chapter-0/c/why_python/",
 	"title": "Why Python",
 	"tags": [],
 	"description": "",
 	"content": "tldw(too long didn\u0026rsquo;t watch):\npython is beginner friendly\n"
+},
+{
+	"uri": "https://codewithgamez.github.io/website/chapter-1/d/string_concatenation/",
+	"title": "String Concatenation",
+	"tags": [],
+	"description": "",
+	"content": "tldw(too long didn\u0026rsquo;t watch):\nSearch Code\n\rFix/Debug Code\n\rComment Code\n\rWrite Code\n\r"
 },
 {
 	"uri": "https://codewithgamez.github.io/website/chapter-0/d/lesson_setup/",

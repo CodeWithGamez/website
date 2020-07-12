@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Comment and commit</title>
+      <title>Comment and Commit</title>
       <link>https://codewithgamez.github.io/website/chapter-1/a/comment_and_commit/</link>
       <pubDate>Sun, 05 Jul 2020 23:24:23 -0500</pubDate>
       
@@ -38,6 +38,20 @@ reason for making course: i&amp;rsquo;m self taught with programming and i feel 
     </item>
     
     <item>
+      <title>Print( )</title>
+      <link>https://codewithgamez.github.io/website/chapter-1/b/print/</link>
+      <pubDate>Mon, 06 Jul 2020 21:20:14 -0500</pubDate>
+      
+      <guid>https://codewithgamez.github.io/website/chapter-1/b/print/</guid>
+      <description>tldw(too long didn&amp;rsquo;t watch):
+Search Code
+Fix/Debug Code
+Comment Code
+Write Code
+</description>
+    </item>
+    
+    <item>
       <title>What Do You Need</title>
       <link>https://codewithgamez.github.io/website/chapter-0/b/what_do_you_need/</link>
       <pubDate>Wed, 01 Jul 2020 21:03:49 -0500</pubDate>
@@ -49,6 +63,20 @@ recommended: a keyboard and a big enough screen</description>
     </item>
     
     <item>
+      <title>Variables and Types</title>
+      <link>https://codewithgamez.github.io/website/chapter-1/c/variables_and_types/</link>
+      <pubDate>Mon, 06 Jul 2020 21:22:42 -0500</pubDate>
+      
+      <guid>https://codewithgamez.github.io/website/chapter-1/c/variables_and_types/</guid>
+      <description>tldw(too long didn&amp;rsquo;t watch):
+Search Code
+Fix/Debug Code
+Comment Code
+Write Code
+</description>
+    </item>
+    
+    <item>
       <title>Why Python</title>
       <link>https://codewithgamez.github.io/website/chapter-0/c/why_python/</link>
       <pubDate>Wed, 01 Jul 2020 21:25:46 -0500</pubDate>
@@ -56,6 +84,20 @@ recommended: a keyboard and a big enough screen</description>
       <guid>https://codewithgamez.github.io/website/chapter-0/c/why_python/</guid>
       <description>tldw(too long didn&amp;rsquo;t watch):
 python is beginner friendly</description>
+    </item>
+    
+    <item>
+      <title>String Concatenation</title>
+      <link>https://codewithgamez.github.io/website/chapter-1/d/string_concatenation/</link>
+      <pubDate>Mon, 06 Jul 2020 21:34:41 -0500</pubDate>
+      
+      <guid>https://codewithgamez.github.io/website/chapter-1/d/string_concatenation/</guid>
+      <description>tldw(too long didn&amp;rsquo;t watch):
+Search Code
+Fix/Debug Code
+Comment Code
+Write Code
+</description>
     </item>
     
     <item>

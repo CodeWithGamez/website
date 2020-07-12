@@ -1,9 +1,9 @@
 +++
-title = "Comment and Commit"
-date = 2020-07-05T23:24:23-05:00
+title = "Print( )"
+date = 2020-07-06T21:20:14-05:00
 draft = false
-pre = "<b>a. </b>"
-weight = 1
+pre = "<b>b. </b>"
+weight = 2
 +++
 
 **tldw(too long didn't watch):**

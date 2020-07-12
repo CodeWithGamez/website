@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://codewithgamez.github.io/website/chapter-1/b/print/</loc>
+    <lastmod>2020-07-06T21:20:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://codewithgamez.github.io/website/chapter-0/b/what_do_you_need/</loc>
     <lastmod>2020-07-01T21:03:49-05:00</lastmod>
   </url>
@@ -28,8 +33,18 @@
   </url>
   
   <url>
+    <loc>https://codewithgamez.github.io/website/chapter-1/c/variables_and_types/</loc>
+    <lastmod>2020-07-06T21:22:42-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://codewithgamez.github.io/website/chapter-0/c/why_python/</loc>
     <lastmod>2020-07-01T21:25:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codewithgamez.github.io/website/chapter-1/d/string_concatenation/</loc>
+    <lastmod>2020-07-06T21:34:41-05:00</lastmod>
   </url>
   
   <url>

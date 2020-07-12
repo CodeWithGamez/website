@@ -1,9 +1,9 @@
 +++
-title = "Comment and Commit"
-date = 2020-07-05T23:24:23-05:00
+title = "Variables and Types"
+date = 2020-07-06T21:22:42-05:00
 draft = false
-pre = "<b>a. </b>"
-weight = 1
+pre = "<b>c. </b>"
+weight = 3
 +++
 
 **tldw(too long didn't watch):**
