@@ -10,17 +10,17 @@ weight = 4
 
 course will be split in these four skills
 {{% notice info %}}
-Search Code
+**Search Code**
 {{% /notice %}}
 
 {{% notice warning %}}
-Fix/Debug Code
+**Fix/Debug Code**
 {{% /notice %}}
 
 {{% notice tip %}}
-Comment Code
+**Comment Code**
 {{% /notice %}}
 
 {{% notice note %}}
-Write Code
+**Write Code**
 {{% /notice %}}

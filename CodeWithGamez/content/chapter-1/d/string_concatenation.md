@@ -9,18 +9,18 @@ weight = 4
 **tldw(too long didn't watch):**
 
 {{% notice info %}}
-Search Code
+**Search Code**
 {{% /notice %}}
 
 {{% notice warning %}}
-Fix/Debug Code
+**Fix/Debug Code**
 {{% /notice %}}
 
 {{% notice tip %}}
-Comment Code
+**Comment Code**
 {{% /notice %}}
 
 {{% notice note %}}
-Write Code
+**Write Code**
 {{% /notice %}}
 
