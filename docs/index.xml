@@ -32,9 +32,10 @@ Search Code
       
       <guid>https://codewithgamez.github.io/website/chapter-0/a/about_the_teacher/</guid>
       <description>tldw(too long didn&amp;rsquo;t watch):
-name: mr. gamez
-job: math/cs teacher, 7th year teaching, only past 2 years have i taught computer science classes with my math classes
-reason for making course: i&amp;rsquo;m self taught with programming and i feel like i can make better material to learn</description>
+  name: mr. gamez
+  job: math/cs teacher, 7th year teaching, only past 2 years have i taught computer science classes with my math classes
+  reason for making course: i&amp;rsquo;m self taught with programming and i feel like i can make better material to learn
+  </description>
     </item>
     
     <item>
@@ -58,8 +59,9 @@ Search Code
       
       <guid>https://codewithgamez.github.io/website/chapter-0/b/what_do_you_need/</guid>
       <description>tldw(too long didn&amp;rsquo;t watch):
-minimum: any device that can run a browser, along with a github account, and linking it to repl.it
-recommended: a keyboard and a big enough screen</description>
+  minimum: any device that can run a browser, along with a github account, and linking it to repl.it
+  recommended: the above min and a keyboard and a big enough screen
+  </description>
     </item>
     
     <item>
@@ -83,7 +85,7 @@ Search Code
       
       <guid>https://codewithgamez.github.io/website/chapter-0/c/why_python/</guid>
       <description>tldw(too long didn&amp;rsquo;t watch):
-python is beginner friendly</description>
+ python is beginner friendly  </description>
     </item>
     
     <item>
@@ -107,11 +109,21 @@ Search Code
       
       <guid>https://codewithgamez.github.io/website/chapter-0/d/lesson_setup/</guid>
       <description>tldw(too long didn&amp;rsquo;t watch):
-course will be split in these four skills Search Code
+ course will be split in these four skills  Search Code
 Fix/Debug Code
 Comment Code
 Write Code
 </description>
+    </item>
+    
+    <item>
+      <title>Protips For Learning</title>
+      <link>https://codewithgamez.github.io/website/chapter-0/e/protips_for_learning/</link>
+      <pubDate>Sun, 19 Jul 2020 14:31:16 -0500</pubDate>
+      
+      <guid>https://codewithgamez.github.io/website/chapter-0/e/protips_for_learning/</guid>
+      <description>tldw(too long didn&amp;rsquo;t watch):
+ make and keep a schedule make programming a habit figure out how you like to learn change your enviroment to get ready to learn surround yourself in the culture  </description>
     </item>
     
   </channel>

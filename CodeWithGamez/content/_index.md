@@ -9,3 +9,11 @@ chapter = true
 
 # A Work In Progress
 
+Updates
+
++ **7/19/20**
+  - Start of writing down progress
+  - Learned basics of hugo, github pages, and editing videos
+  - Mapped out basic layout of chapter 0 and 1
+  - Made general structure of a lesson
+  - Added protips to chapter 0 and general idea of text style through out website

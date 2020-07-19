@@ -8,7 +8,8 @@ weight = 4
 
 **tldw(too long didn't watch):**
 
-course will be split in these four skills
+* course will be split in these four skills
+
 {{% notice info %}}
 **Search Code**
 {{% /notice %}}

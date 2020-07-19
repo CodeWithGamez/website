@@ -8,4 +8,4 @@ weight = 3
 
 **tldw(too long didn't watch):**
 
-python is beginner friendly
+* python is beginner friendly
