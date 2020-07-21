@@ -11,6 +11,9 @@ chapter = true
 
 Updates
 
++ **7/21/20**
+  - Made and added first video to website
+
 + **7/19/20**
   - Start of writing down progress
   - Learned basics of hugo, github pages, and editing videos

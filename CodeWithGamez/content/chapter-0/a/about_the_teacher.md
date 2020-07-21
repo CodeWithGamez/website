@@ -1,10 +1,12 @@
 +++
-title = "About The Teacher"
+title = "Hello Students"
 date = 2020-06-30T18:44:26-05:00
 draft = false
 pre = "<b>a. </b>"
 weight = 1
 +++
+
+{{< youtube rC0eTgrjS1g >}}
 
 **tldw(too long didn't watch):**
 
