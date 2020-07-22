@@ -24,3 +24,4 @@ weight = 1
 **Write Code**
 {{% /notice %}}
 
+{{< replit Replit-practice >}}

@@ -14,6 +14,7 @@ Updates
 + **7/21/20**
   - Made and added first video to website
   - Using hyperlinks in markdown files
+  - Added shortcode for using repl.it
 
 + **7/19/20**
   - Start of writing down progress
