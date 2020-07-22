@@ -7,7 +7,7 @@
 	"content": "tldw(too long didn\u0026rsquo;t watch):\nSearch Code\n\rFix/Debug Code\n\rComment Code\n\rWrite Code\n\r"
 },
 {
-	"uri": "https://codewithgamez.github.io/website/chapter-0/a/about_the_teacher/",
+	"uri": "https://codewithgamez.github.io/website/chapter-0/a/hello_students/",
 	"title": "Hello Students",
 	"tags": [],
 	"description": "",
@@ -32,7 +32,7 @@
 	"title": "What Do You Need",
 	"tags": [],
 	"description": "",
-	"content": "tldw(too long didn\u0026rsquo;t watch):\n  minimum: any device that can run a browser, along with a github account, and linking it to repl.it\n  recommended: the above min and a keyboard and a big enough screen\n  "
+	"content": "tldw(too long didn\u0026rsquo;t watch):\n  minimum: any device that can run a browser, along with a github account, and linking it to repl.it\n  recommended: the above min and a keyboard and a big enough screen\n  Sign up for a github account\nLink your github and repl.it accounts\n"
 },
 {
 	"uri": "https://codewithgamez.github.io/website/chapter-1/",
@@ -81,7 +81,7 @@
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": "Welcome A Work In Progress Updates\n  7/21/20\n Made and added first video to website    7/19/20\n Start of writing down progress Learned basics of hugo, github pages, and editing videos Mapped out basic layout of chapter 0 and 1 Made general structure of a lesson Added protips to chapter 0 and general idea of text style through out website    "
+	"content": "Welcome A Work In Progress Updates\n  7/21/20\n Made and added first video to website Using hyperlinks in markdown files    7/19/20\n Start of writing down progress Learned basics of hugo, github pages, and editing videos Mapped out basic layout of chapter 0 and 1 Made general structure of a lesson Added protips to chapter 0 and general idea of text style through out website    "
 },
 {
 	"uri": "https://codewithgamez.github.io/website/categories/",
