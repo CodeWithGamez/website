@@ -6,6 +6,8 @@ pre = "<b>b. </b>"
 weight = 2
 +++
 
+{{< youtube Nhy7HlYFsdg >}}
+
 **tldw(too long didn't watch):**
 
 * **minimum:** any device that can run a browser, along with a github account, and linking it to repl.it

@@ -11,6 +11,10 @@ chapter = true
 
 Updates
 
++ **7/24/20**
+  - Made and added second video to website
+  - Have rough template for videos
+
 + **7/21/20**
   - Made and added first video to website
   - Using hyperlinks in markdown files
