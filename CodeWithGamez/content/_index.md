@@ -11,6 +11,10 @@ chapter = true
 
 Updates
 
++ **7/27/20**
+  - Made and added third video to website
+  - Messing around with repl.it to see what is easiest for new users to deal with files
+
 + **7/24/20**
   - Made and added second video to website
   - Have rough template for videos
