@@ -12,16 +12,24 @@ weight = 1
 **Search Code**
 {{% /notice %}}
 
+{{< replit commentandcommitblanknotes >}}
+
 {{% notice warning %}}
 **Fix/Debug Code**
 {{% /notice %}}
+
+{{< replit commentandcommitfix >}}
+
 
 {{% notice tip %}}
 **Comment Code**
 {{% /notice %}}
 
+{{< replit commentandcommitcomment >}}
+
+
 {{% notice note %}}
 **Write Code**
 {{% /notice %}}
 
-{{< replit Replit-practice >}}
+{{< replit commentandcommitwrite >}}
