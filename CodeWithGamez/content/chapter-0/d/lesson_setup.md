@@ -6,9 +6,13 @@ pre = "<b>d. </b>"
 weight = 4
 +++
 
+{{< youtube vnvOR46CxAg >}}
+
 **tldw(too long didn't watch):**
 
 * course will be split in these four skills
+
+* they can be done in any order based on how you like learning
 
 {{% notice info %}}
 **Search Code**
