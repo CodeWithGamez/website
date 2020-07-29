@@ -6,6 +6,8 @@ pre = "<b>e. </b>"
 weight = 5
 +++
 
+{{< youtube -denW7zNUaw >}}
+
 **tldw(too long didn't watch):**
 
 * make and keep a schedule 

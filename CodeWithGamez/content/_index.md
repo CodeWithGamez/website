@@ -11,6 +11,10 @@ chapter = true
 
 Updates
 
++ **7/29/20**
+  - Added last video for chapter 0
+  - Chapter 0 done, time for building curriculum for chapter 1
+
 + **7/27/20**
   - Made and added third and fourth videos to website
   - Messing around with repl.it to see what is easiest for new users to deal with files
