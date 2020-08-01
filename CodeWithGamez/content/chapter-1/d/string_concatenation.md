@@ -12,15 +12,28 @@ weight = 4
 **Search Code**
 {{% /notice %}}
 
+>**Repl.it Comment:**
+[Blank Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py)
+
+{{%expand "Completed Notes" %}}[Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py){{% /expand%}}
+
 {{% notice warning %}}
 **Fix/Debug Code**
 {{% /notice %}}
+
+>**Repl.it Comment:**
+[Fix Practice](https://repl.it/@CodeWithGamez/commentandcommitfix)
 
 {{% notice tip %}}
 **Comment Code**
 {{% /notice %}}
 
+>**Repl.it Comment:**
+[Comment Practice](https://repl.it/@CodeWithGamez/commentandcommitcomment)
+
 {{% notice note %}}
 **Write Code**
 {{% /notice %}}
 
+>**Repl.it Comment:**
+[Write Practice](https://repl.it/@CodeWithGamez/commentandcommitwrite)

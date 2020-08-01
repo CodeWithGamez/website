@@ -11,6 +11,10 @@ chapter = true
 
 Updates
 
++ **7/31/20**
+  - Removing replits being embedded from website 
+  - New template for lessons
+
 + **7/29/20**
   - Added last video for chapter 0
   - Chapter 0 done, time for building curriculum for chapter 1
