@@ -12,7 +12,9 @@ weight = 1
 **Search Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
+![search](https://media.giphy.com/media/TjA63Nv2gJ2zqwBvEO/giphy.gif)
+
+>**Repl.it:**
 [Blank Notes](https://repl.it)
 
 {{%expand "Completed Notes" %}}[Notes](https://repl.it/){{% /expand%}}
@@ -21,19 +23,19 @@ weight = 1
 **Fix/Debug Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
+>**Repl.it:**
 [Fix Practice](https://repl.it)
 
 {{% notice tip %}}
 **Comment Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
+>**Repl.it:**
 [Comment Practice](https://repl.it)
 
 {{% notice note %}}
 **Write Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
+>**Repl.it:**
 [Write Practice](https://repl.it)

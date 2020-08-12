@@ -12,8 +12,10 @@ weight = 1
 **Search Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
-[Blank Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py)
+![search](https://media.giphy.com/media/TjA63Nv2gJ2zqwBvEO/giphy.gif)
+
+>**Repl.it:**
+[Comment - Blank Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py)
 
 {{%expand "Completed Notes" %}}[Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py){{% /expand%}}
 
@@ -21,19 +23,19 @@ weight = 1
 **Fix/Debug Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
-[Fix Practice](https://repl.it/@CodeWithGamez/commentandcommitfix)
+>**Repl.it:**
+[Comment - Fix Practice](https://repl.it/@CodeWithGamez/commentandcommitfix)
 
 {{% notice tip %}}
 **Comment Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
-[Comment Practice](https://repl.it/@CodeWithGamez/commentandcommitcomment)
+>**Repl.it:**
+[Commment - Comment Practice](https://repl.it/@CodeWithGamez/commentandcommitcomment)
 
 {{% notice note %}}
 **Write Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
-[Write Practice](https://repl.it/@CodeWithGamez/commentandcommitwrite)
+>**Repl.it:**
+[Comment - Write Practice](https://repl.it/@CodeWithGamez/commentandcommitwrite)

@@ -12,8 +12,8 @@ weight = 5
 **Search Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
-[Blank Notes](https://repl.it)
+>**Repl.it:**
+[String Concatenation - Blank Notes](https://repl.it)
 
 {{%expand "Completed Notes" %}}[Notes](https://repl.it/){{% /expand%}}
 
@@ -21,19 +21,19 @@ weight = 5
 **Fix/Debug Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
-[Fix Practice](https://repl.it)
+>**Repl.it:**
+[String Concatenation - Fix Practice](https://repl.it)
 
 {{% notice tip %}}
 **Comment Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
-[Comment Practice](https://repl.it)
+>**Repl.it:**
+[String Concatenation - Comment Practice](https://repl.it)
 
 {{% notice note %}}
 **Write Code**
 {{% /notice %}}
 
->**Repl.it Comment:**
-[Write Practice](https://repl.it)
+>**Repl.it:**
+[String Concatenation - Write Practice](https://repl.it)
