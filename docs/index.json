@@ -56,8 +56,8 @@
 	"content": "   tldw(too long didn\u0026rsquo;t watch):\n python is beginner friendly to learn fundementals  Examples of other languages\nEven more examples\n"
 },
 {
-	"uri": "https://codewithgamez.github.io/website/chapter-1/d/string_concatenation/",
-	"title": "String Concatenation",
+	"uri": "https://codewithgamez.github.io/website/chapter-1/d/type_casting/",
+	"title": "Type Casting",
 	"tags": [],
 	"description": "",
 	"content": "tldw(too long didn\u0026rsquo;t watch):\nSearch Code\n\r Repl.it Comment: Blank Notes\n \r\rCompleted Notes\r\r\rNotes\r\r Fix/Debug Code\n\r Repl.it Comment: Fix Practice\n Comment Code\n\r Repl.it Comment: Comment Practice\n Write Code\n\r Repl.it Comment: Write Practice\n "
@@ -68,6 +68,13 @@
 	"tags": [],
 	"description": "",
 	"content": "   tldw(too long didn\u0026rsquo;t watch):\n  course will be split in these four skills\n  they can be done in any order based on how you like learning\n  Search Code\n\rFix/Debug Code\n\rComment Code\n\rWrite Code\n\r"
+},
+{
+	"uri": "https://codewithgamez.github.io/website/chapter-1/e/string_concatenation/",
+	"title": "String Concatenation",
+	"tags": [],
+	"description": "",
+	"content": "tldw(too long didn\u0026rsquo;t watch):\nSearch Code\n\r Repl.it Comment: Blank Notes\n \r\rCompleted Notes\r\r\rNotes\r\r Fix/Debug Code\n\r Repl.it Comment: Fix Practice\n Comment Code\n\r Repl.it Comment: Comment Practice\n Write Code\n\r Repl.it Comment: Write Practice\n "
 },
 {
 	"uri": "https://codewithgamez.github.io/website/chapter-0/e/protips_for_learning/",
@@ -81,7 +88,7 @@
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": "Welcome A Work In Progress This online course was made for complete beginners that are not sure where to start and I assume students to be in middle/high school or older and want to be self taught. I want to show that it is not that hard to learn and I am making this course to be something that I wished existed when I was in high school.\nThe course is also based on 6 years of teaching and self teaching myself programming to teach it. With plenty of written resources and videos of concepts scattered around, I want to bring together every thing with practice to understand concepts.\n  8/11/20\n Using KeyPress OSD to record keypress Practicing with more repl.it    7/31/20\n Removing replits being embedded from website New template for lessons    7/29/20\n Added last video for chapter 0 Chapter 0 done, time for building curriculum for chapter 1    7/27/20\n Made and added third and fourth videos to website Messing around with repl.it to see what is easiest for new users to deal with files Made and added 1.a repl.its    7/24/20\n Made and added second video to website Have rough template for videos    7/21/20\n Made and added first video to website Using hyperlinks in markdown files Added shortcode for using repl.it    7/19/20\n Start of writing down progress Learned basics of hugo, github pages, and editing videos Mapped out basic layout of chapter 0 and 1 Made general structure of a lesson Added protips to chapter 0 and general idea of text style through out website    "
+	"content": "Welcome A Work In Progress This online course was made for complete beginners that are not sure where to start and I assume students to be in middle/high school or older and want to be self taught. I want to show that it is not that hard to learn and I am making this course to be something that I wished existed when I was in high school.\nThe course is also based on 6 years of teaching and self teaching myself programming to teach it. With plenty of written resources and videos of concepts scattered around, I want to bring together every thing with practice to understand concepts.\n  8/12/20\n Added type casting lesson to unit 1 Making gifs for unit 1    8/11/20\n Using KeyPress OSD to record keypress Practicing with more repl.it    7/31/20\n Removing replits being embedded from website New template for lessons    7/29/20\n Added last video for chapter 0 Chapter 0 done, time for building curriculum for chapter 1    7/27/20\n Made and added third and fourth videos to website Messing around with repl.it to see what is easiest for new users to deal with files Made and added 1.a repl.its    7/24/20\n Made and added second video to website Have rough template for videos    7/21/20\n Made and added first video to website Using hyperlinks in markdown files Added shortcode for using repl.it    7/19/20\n Start of writing down progress Learned basics of hugo, github pages, and editing videos Mapped out basic layout of chapter 0 and 1 Made general structure of a lesson Added protips to chapter 0 and general idea of text style through out website    "
 },
 {
 	"uri": "https://codewithgamez.github.io/website/categories/",

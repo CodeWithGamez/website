@@ -1,5 +1,5 @@
 +++
-title = "String Concatenation"
+title = "Type Casting"
 date = 2020-07-06T21:34:41-05:00
 draft = false
 pre = "<b>d. </b>"
