@@ -12,6 +12,8 @@ weight = 2
 **Search Code**
 {{% /notice %}}
 
+![search](https://media.giphy.com/media/IazTUizsp5oQU2znTD/giphy.gif)
+
 >**Repl.it:**
 [Print() - Blank Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py)
 

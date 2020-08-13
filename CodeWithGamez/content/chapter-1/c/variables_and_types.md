@@ -12,6 +12,8 @@ weight = 3
 **Search Code**
 {{% /notice %}}
 
+![search](https://media.giphy.com/media/lrbvcWCDJ6THWWAgDd/giphy.gif)
+
 >**Repl.it:**
 [Variables and Types - Blank Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py)
 

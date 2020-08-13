@@ -12,6 +12,8 @@ weight = 4
 **Search Code**
 {{% /notice %}}
 
+![search](https://media.giphy.com/media/Y3ArMElRtr6UrU9VJj/giphy.gif)
+
 >**Repl.it:**
 [Type Casting - Blank Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py)
 

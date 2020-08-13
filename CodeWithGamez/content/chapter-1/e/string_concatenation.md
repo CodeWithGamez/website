@@ -12,6 +12,8 @@ weight = 5
 **Search Code**
 {{% /notice %}}
 
+![search](https://media.giphy.com/media/iDfZ8CoNMrvJ9fpFvO/giphy.gif)
+
 >**Repl.it:**
 [String Concatenation - Blank Notes](https://repl.it)
 
