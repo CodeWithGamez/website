@@ -15,7 +15,7 @@ weight = 3
 ![search](https://media.giphy.com/media/lrbvcWCDJ6THWWAgDd/giphy.gif)
 
 >**Repl.it:**
-[Variables and Types - Blank Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py)
+[Variables and Types - Blank Notes](https://repl.it/@CodeWithGamez/variablesandtypesblanknotes)
 
 {{%expand "Completed Notes" %}}[Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py){{% /expand%}}
 
@@ -24,18 +24,18 @@ weight = 3
 {{% /notice %}}
 
 >**Repl.it:**
-[Variables and Types - Fix Practice](https://repl.it/@CodeWithGamez/commentandcommitfix)
+[Variables and Types - Fix Practice](https://repl.it/@CodeWithGamez/variablesandtypesfix)
 
 {{% notice tip %}}
 **Comment Code**
 {{% /notice %}}
 
 >**Repl.it:**
-[Variables and Types - Comment Practice](https://repl.it/@CodeWithGamez/commentandcommitcomment)
+[Variables and Types - Comment Practice](https://repl.it/@CodeWithGamez/variablesandtypescomment)
 
 {{% notice note %}}
 **Write Code**
 {{% /notice %}}
 
 >**Repl.it:**
-[Variables and Types - Write Practice](https://repl.it/@CodeWithGamez/commentandcommitwrite)
+[Variables and Types - Write Practice](https://repl.it/@CodeWithGamez/variablesandtypeswrite)

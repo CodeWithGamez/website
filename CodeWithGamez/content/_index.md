@@ -13,9 +13,14 @@ This online course was made for complete beginners that are not sure where to st
 
 The course is also based on 6 years of teaching and self teaching myself programming to teach it. With plenty of written resources and videos of concepts scattered around, I want to bring together every thing with practice to understand concepts.
 
++ **8/16/20**
+  - Changed correct links for chapter 1
+  - Half of chapter 1 repl.its done
+  - Gifs added to chapter 1
+
 + **8/12/20**
-  - Added type casting lesson to unit 1
-  - Making gifs for unit 1
+  - Added type casting lesson to chapter 1
+  - Making gifs for chapter 1
 
 + **8/11/20**
   - Using KeyPress OSD to record keypress

@@ -15,7 +15,7 @@ weight = 2
 ![search](https://media.giphy.com/media/IazTUizsp5oQU2znTD/giphy.gif)
 
 >**Repl.it:**
-[Print() - Blank Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py)
+[Print() - Blank Notes](https://repl.it/@CodeWithGamez/printblanknotes)
 
 {{%expand "Completed Notes" %}}[Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py){{% /expand%}}
 
@@ -24,18 +24,18 @@ weight = 2
 {{% /notice %}}
 
 >**Repl.it:**
-[Print() - Fix Practice](https://repl.it/@CodeWithGamez/commentandcommitfix)
+[Print() - Fix Practice](https://repl.it/@CodeWithGamez/printfix)
 
 {{% notice tip %}}
 **Comment Code**
 {{% /notice %}}
 
 >**Repl.it:**
-[Print() - Comment Practice](https://repl.it/@CodeWithGamez/commentandcommitcomment)
+[Print() - Comment Practice](https://repl.it/@CodeWithGamez/printcomment)
 
 {{% notice note %}}
 **Write Code**
 {{% /notice %}}
 
 >**Repl.it:**
-[Print() - Write Practice](https://repl.it/@CodeWithGamez/commentandcommitwrite)
+[Print() - Write Practice](https://repl.it/@CodeWithGamez/printwrite)

@@ -15,7 +15,7 @@ weight = 4
 ![search](https://media.giphy.com/media/Y3ArMElRtr6UrU9VJj/giphy.gif)
 
 >**Repl.it:**
-[Type Casting - Blank Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py)
+[Type Casting - Blank Notes](https://repl.it/@CodeWithGamez/typecastingblanknotes)
 
 {{%expand "Completed Notes" %}}[Notes](https://repl.it/@CodeWithGamez/commentandcommitblanknotes#main.py){{% /expand%}}
 
@@ -24,18 +24,18 @@ weight = 4
 {{% /notice %}}
 
 >**Repl.it:**
-[Type Casting - Fix Practice](https://repl.it/@CodeWithGamez/commentandcommitfix)
+[Type Casting - Fix Practice](https://repl.it/@CodeWithGamez/typecastingfix)
 
 {{% notice tip %}}
 **Comment Code**
 {{% /notice %}}
 
 >**Repl.it:**
-[Type Casting - Comment Practice](https://repl.it/@CodeWithGamez/commentandcommitcomment)
+[Type Casting - Comment Practice](https://repl.it/@CodeWithGamez/typecastingcomment)
 
 {{% notice note %}}
 **Write Code**
 {{% /notice %}}
 
 >**Repl.it:**
-[Type Casting - Write Practice](https://repl.it/@CodeWithGamez/commentandcommitwrite)
+[Type Casting - Write Practice](https://repl.it/@CodeWithGamez/typecastingwrite)

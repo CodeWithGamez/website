@@ -15,7 +15,7 @@ weight = 5
 ![search](https://media.giphy.com/media/iDfZ8CoNMrvJ9fpFvO/giphy.gif)
 
 >**Repl.it:**
-[String Concatenation - Blank Notes](https://repl.it)
+[String Concatenation - Blank Notes](https://repl.it/@CodeWithGamez/stringconcatenationblanknotes)
 
 {{%expand "Completed Notes" %}}[Notes](https://repl.it/){{% /expand%}}
 
@@ -24,18 +24,18 @@ weight = 5
 {{% /notice %}}
 
 >**Repl.it:**
-[String Concatenation - Fix Practice](https://repl.it)
+[String Concatenation - Fix Practice](https://repl.it/@CodeWithGamez/stringconcatenationfix)
 
 {{% notice tip %}}
 **Comment Code**
 {{% /notice %}}
 
 >**Repl.it:**
-[String Concatenation - Comment Practice](https://repl.it)
+[String Concatenation - Comment Practice](https://repl.it/@CodeWithGamez/stringconcatenationcomment)
 
 {{% notice note %}}
 **Write Code**
 {{% /notice %}}
 
 >**Repl.it:**
-[String Concatenation - Write Practice](https://repl.it)
+[String Concatenation - Write Practice](https://repl.it/@CodeWithGamez/stringconcatenationwrite)
