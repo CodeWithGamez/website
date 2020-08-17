@@ -17,10 +17,11 @@ The course is also based on 6 years of teaching and self teaching myself program
   - Changed correct links for chapter 1
   - Half of chapter 1 repl.its done
   - Gifs added to chapter 1
+  - Figured how to add logo pic from github not from withen project
 
 + **8/12/20**
   - Added type casting lesson to chapter 1
-  - Making gifs for chapter 1
+  - Making gifs for chapter 1 with giphy
 
 + **8/11/20**
   - Using KeyPress OSD to record keypress
