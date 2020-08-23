@@ -9,9 +9,15 @@ chapter = true
 
 # A Work In Progress
 
-This online course was made for complete beginners that are not sure where to start and I assume students to be in middle/high school or older and want to be self taught. I want to show that it is not that hard to learn and I am making this course to be something that I wished existed when I was in high school.
+This online course was made for complete beginners that are not sure where to start and I assume students to be in middle/high school or older and want to be self taught. I want to show that it is not that hard to learn and I am making this course to be something that I wished existed when I was growing up.
 
 The course is also based on 6 years of teaching and self teaching myself programming to teach it. With plenty of written resources and videos of concepts scattered around, I want to bring together every thing with practice to understand concepts.
+
++ **8/23/20**
+  - School restarting
+  - Finished lesson repl.its in chapter 1
+  - Added Chapter Challenge to chapter 1
+  - Added an empty chapter 2
 
 + **8/16/20**
   - Changed correct links for chapter 1
