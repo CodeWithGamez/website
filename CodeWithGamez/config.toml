@@ -11,3 +11,20 @@ publishDir = "../docs"
 home = [ "HTML", "RSS", "JSON"]
 
 
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> My Github"
+identifier = "github"
+url = "https://github.com/CodeWithGamez"
+weight = 10
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-twitter'></i> My Twitter"
+identifier = "twitter"
+url = "https://twitter.com/code_gamez"
+weight = 11
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-youtube'></i> My YouTube"
+identifier = "YouTube"
+url = "https://www.youtube.com/channel/UCq5m_ARYP0LF3vfeArU8dyg"
+weight = 12
