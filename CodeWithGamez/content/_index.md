@@ -18,6 +18,7 @@ The course is also based on 6 years of teaching and self teaching myself program
   - Finished lesson repl.its in chapter 1
   - Added Chapter Challenge to chapter 1
   - Added an empty chapter 2
+  - Add links to social media
 
 + **8/16/20**
   - Changed correct links for chapter 1
